@@ -11,10 +11,10 @@ Currently, I am a bachelore's student studying at [Sharif University of Technolo
 
 ![](https://visitor-badge.glitch.me/badge?page_id=reza.soumi)
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Reza+Soumi)](https://git.io/typing-svg)
-Currently, I am a bachelore's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
-My Website: ![RezaSoumi](https://rezasoumi.github.io/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Reza+Soumi)](https://git.io/typing-svg)
+
+Currently, I am a bachelore's student studying at [Sharif University of Technology](http://www.sharif.edu/). Briefly, I introduced myself [here](http://rezasoumi.github.io/)
 
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
