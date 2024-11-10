@@ -14,7 +14,7 @@ Currently, I am a bachelore's student studying at [Sharif University of Technolo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Reza+Soumi)](https://git.io/typing-svg)
 
-Currently, I am a bachelor's student studying at [Sharif University of Technology](http://www.sharif.edu/). Briefly, I introduced myself [here](http://rezasoumi.github.io/)
+Currently, I am a bachelor's student studying at [Aalto University](http://www.sharif.edu/](https://www.aalto.fi/en). Briefly, I introduced myself [here](http://rezasoumi.github.io/)
 
 <table border="0" cellspacing="0" cellpadding="0" align = "center">
     <tr>
@@ -42,5 +42,5 @@ Currently, I am a bachelor's student studying at [Sharif University of Technolog
 ## Contact Me
 
 
-Feel free to contact me at rezasoumi7@gmail.com / reza.soumi@sharif.edu
+Feel free to contact me at rezasoumi7@gmail.com / reza.soumi@aalto.fi
 
